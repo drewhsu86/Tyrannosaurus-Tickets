@@ -4,7 +4,7 @@
 
 ## Deployed App
 
-[Mobile App](https://t-rex-tickets.netlify.com) - (Demo Account > username: __user1__, password: __123456__)
+[Mobile App](https://t-rex-tickets.netlify.com)
 
 [QR Scanner App](https://https://trex-tickets-qr-reader.surge.sh/)
 
