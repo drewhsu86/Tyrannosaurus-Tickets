@@ -10,15 +10,15 @@
 
 ## Team Members
 
-Andrew Hsu: Back-End Developer [site](https://drewhsu86.com/)
+- Andrew Hsu: Back-End Developer [site](https://drewhsu86.com/)
 
-Jordan Weiss: Data Scientist [site](https://www.linkedin.com/in/jordan-weiss-a54bb826/)
+- Jordan Weiss: Data Scientist [site](https://www.linkedin.com/in/jordan-weiss-a54bb826/)
 
-Leah Mirani: UX Designer [site](https://www.leahmiranidesign.com/)
+- Leah Mirani: UX Designer [site](https://www.leahmiranidesign.com/)
 
-Peter Hsiao: UX Designer [site](https://www.peterhsiao.me/)
+- Peter Hsiao: UX Designer [site](https://www.peterhsiao.me/)
 
-Scott Griffith: Front-End Developer [site](https://scottgriffith.dev/)
+- Scott Griffith: Front-End Developer [site](https://scottgriffith.dev/)
 ## Overview
 
 ### Overall Summary
