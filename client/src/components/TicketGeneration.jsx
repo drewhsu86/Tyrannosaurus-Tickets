@@ -51,7 +51,7 @@ export default class TicketGeneration extends Component {
       console.log(response)
 
       this.setState({
-        info: `Ticket bought with ticket id: ${response._id}. Please hit the arrow button on top to see all events you have tickets for! `
+        info: `Ticket bought with ticket id: ${response._id}. Please hit the arrow button on top left to see all events you have tickets for! `
       })
     } catch (error) {
       console.log(error)
