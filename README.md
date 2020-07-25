@@ -4,7 +4,7 @@
 
 ## Deployed App
 
-[Mobile App](https://t-rex-tickets.netlify.com)
+[Mobile App](https://trex-tickets.netlify.com)
 
 [QR Scanner App](https://https://trex-tickets-qr-reader.surge.sh/)
 
